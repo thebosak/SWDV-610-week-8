@@ -1,6 +1,6 @@
 '''
 Brad Bosak
-SWDV-610 Final Project
+SWDV-610 Data Structures Final Project
 8/22/2018
 
 This is the knight's tour program adapted by

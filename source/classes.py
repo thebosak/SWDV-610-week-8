@@ -90,7 +90,7 @@ class Vertex:
     def getConnections(self):
         return self.connectedTo.keys()
     
-    def orderByAvail(self,n):                              #sorts by least amount of moves available
+    def orderByAvail(self,n):                             #sorts by least amount of moves available
         resList = []
         for v in n.getConnections():
             if v.getColor() == 'white':
